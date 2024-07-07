@@ -1,3 +1,2 @@
 # Sprites
-
 Made using Aseprite
